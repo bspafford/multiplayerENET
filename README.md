@@ -1,4 +1,4 @@
 ---
-title: 2D Multipler Game!
+title: 2D Multiplayer Game!
 ---
-This game is a 2D minecraft inspired multipler game.
+This game is a 2D minecraft inspired multiplayer game.
