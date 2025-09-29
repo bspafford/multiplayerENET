@@ -1,4 +1,4 @@
-# Multiplayer ENET
+# Orbiterra
 This project is a 2D sandbox multiplayer game, inspired by Minecraft but set in a looping circular world. As players walk in one direction, they eventually return to their starting point.  I implemented core mechanics like placing and breaking blocks, managing a hotbar inventory, and drawing the world, then extended it with real time multiplayer networking.
 
 **Tech Stats:**
