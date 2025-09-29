@@ -1,7 +1,16 @@
----
-title: 2D Multiplayer Game!
----
-This game is a 2D minecraft inspired multiplayer game. I created it using GLM, GLAD, GLFW, and ENET. It is made up of one chunck, 16 wide, and 384 tall. The player is able to connect to a server. Once connected the user is able to place and break blocks.
+# Multiplayer ENET
+This project is a 2D sandbox multiplayer game, inspired by Minecraft but set in a looping circular world. As players walk in one direction, they eventually return to their starting point.  I implemented core mechanics like placing and breaking blocks, managing a hotbar inventory, and drawing the world, then extended it with real time multiplayer networking.
 
-Run instructions
-Inside the Build folder there is a server and client folder. First run the server.exe. Then launch the client. When the client window first opens it will be white. Click on the command promp that also opens and enter the servers ip address. Then the port: 7777.
+**Tech Stats**
+C++
+OpenGL: GLM, Glew, Glad
+
+### How to Play:
+Clone the Repository
+Run Server/Build/multiplayerENET.exe
+Then run Client/Build/roundWorld.exe
+In the CMD type in IP of the server, press enter
+Then enter port 7777
+
+### Watch Demo
+[![Watch Demo](https://bspafford.github.io/images/thumbnails/multiplayerENET.png)](https://bspafford.github.io/multiplayerENET/media/multiplayerENET.mp4)
